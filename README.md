@@ -9,4 +9,4 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: In my career I had the opportunity to lead a team of more than 10 people for a short but very rewarding project.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
